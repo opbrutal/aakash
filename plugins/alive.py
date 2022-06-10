@@ -40,9 +40,8 @@ async def start_(client: Client, message: Message):
 𝐍𝐨 𝐋𝐚𝐠 𝐕𝐂 𝐌𝐮𝐬𝐢𝐜 𝐏𝐥𝐚𝐲𝐞𝐫 𝐁𝐨𝐭.
 
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃   » [𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞]({https://t.me/official_mentalmod})
-┣★ 𝐇𝐀𝐂𝐊' » [𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞]({https://t.me/jzjshhsjsjdjnd})
-┣★ 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 ➪ » [𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞]({https://t.me/MENTAL_MODl})
+┣★ 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃   » [𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞]({https://t.me/AKASH_ACCOUNTS_RESELLER})
+┣★ 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 ➪ » [𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞]({https://t.me/+vFOVpl3sbpFjNGE9})
 ┣★ 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 ➪ » [𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞]({https://t.me/A_4_AMAN_0FFICIAL})
 ┗━━━━━━━━━━━━━━━━━┛
 
@@ -53,7 +52,7 @@ async def start_(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "➕ ❰ 𝐀𝐝𝐝 𝐌𝐞 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 ❱ ➕", url=f"https://t.me/{MENTALxQUEEN_MUSIC}?startgroup=true")
+                        "➕ ❰ 𝐀𝐝𝐝 𝐌𝐞 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 ❱ ➕", url=f"{https://t.me/+vFOVpl3sbpFjNGE9}?startgroup=true")
                 ]
                 
            ]
@@ -61,7 +60,7 @@ async def start_(client: Client, message: Message):
     )
     
     
-@Client.on_message(commandpro(["/start", f"start@{MENTALxQUEEN_MUSIC}", "/alive", ".alive", "#MENTAL"]) & filters.group & ~filters.edited)
+@Client.on_message(commandpro(["/start", f"start{𝐌𝐑乛 𝐑𝐔𝐃𝐑𝐀 𝐱 𝐌𝐔𝐒𝐈𝐂}", "/alive", ".alive", "#MENTAL"]) & filters.group & ~filters.edited)
 async def start(client: Client, message: Message):
     await message.reply_photo(
         photo=f"{BOT_IMAGE}",
@@ -70,7 +69,7 @@ async def start(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        " 💥 𝐉𝐨𝐢𝐧 𝐎𝐮𝐫 𝐂𝐡𝐚𝐭 𝐆𝐫𝐨𝐮𝐩 💞", url=f"{https://t.me/MENTAL_MOD}")
+                        " 💥 𝐉𝐨𝐢𝐧 𝐎𝐮𝐫 𝐂𝐡𝐚𝐭 𝐆𝐫𝐨𝐮𝐩 💞", url=f"{https://t.me/+vFOVpl3sbpFjNGE9}")
                 ]
             ]
         ),
