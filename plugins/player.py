@@ -107,7 +107,7 @@ async def generate_cover(requested_by, title, views, duration, thumbnail):
     draw.text((190, 630), f"Views: {views}", (255, 255, 255), font=font)
     draw.text(
         (190, 670),
-        f"Powered By: BRUTAL (@b_4_brutu_rajput)",
+        f"Powered By: MENTAL (OFFICIAL_MENTALMOD)",
         (255, 255, 255),
         font=font,
     )
@@ -135,7 +135,7 @@ async def play(_, message: Message):
     try:
         user = await USER.get_me()
     except:
-        user.first_name = "Aditya_Player"
+        user.first_name = "MENTALxQUEEN"
     usar = user
     wew = usar.id
     try:
@@ -159,12 +159,12 @@ async def play(_, message: Message):
                     pass
                 except Exception:
                     await lel.edit(
-                        f"**🥀 𝐏𝐥𝐞𝐚𝐬𝐞 𝐌𝐚𝐧𝐮𝐚𝐥𝐥𝐲 🌺 𝐀𝐝𝐝 [𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭](t.me/{ASSISTANT_USERNAME}) 🎸 𝐢𝐧 𝐓𝐡𝐢𝐬 𝐆𝐫𝐨𝐮𝐩 ♥️ 𝐎𝐫 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐓𝐨 [𝐁𝐨𝐭 𝐎𝐰𝐧𝐞𝐫 ](https://t.me/{OWNER_USERNAME}) ✨ **")
+                        f"**🥀 𝐏𝐥𝐞𝐚𝐬𝐞 𝐌𝐚𝐧𝐮𝐚𝐥𝐥𝐲 🌺 𝐀𝐝𝐝 [𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭](t.me/{MENTALxQUEEN_MUSIC}) 🎸 𝐢𝐧 𝐓𝐡𝐢𝐬 𝐆𝐫𝐨𝐮𝐩 ♥️ 𝐎𝐫 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐓𝐨 [𝐁𝐨𝐭 𝐎𝐰𝐧𝐞𝐫 ](https://t.me/{OWNER_USERNAME}) ✨ **")
     try:
         await USER.get_chat(chid)
     except:
         await lel.edit(
-            f"**🥀 𝐏𝐥𝐞𝐚𝐬𝐞 𝐌𝐚𝐧𝐮𝐚𝐥𝐥𝐲 🌺 𝐀𝐝𝐝 [𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭](t.me/{ASSISTANT_USERNAME}) 🎸 𝐢𝐧 𝐓𝐡𝐢𝐬 𝐆𝐫𝐨𝐮𝐩 ♥️ 𝐎𝐫 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐓𝐨 [𝐁𝐨𝐭 𝐎𝐰𝐧𝐞𝐫 ](https://t.me/{OWNER_USERNAME}) ✨ **")
+            f"**🥀 𝐏𝐥𝐞𝐚𝐬𝐞 𝐌𝐚𝐧𝐮𝐚𝐥𝐥𝐲 🌺 𝐀𝐝𝐝 [𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭](t.me/{MENTALxQUEEN_MUSIC}) 🎸 𝐢𝐧 𝐓𝐡𝐢𝐬 𝐆𝐫𝐨𝐮𝐩 ♥️ 𝐎𝐫 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐓𝐨 [𝐁𝐨𝐭 𝐎𝐰𝐧𝐞𝐫 ](https://t.me/{OWNER_USERNAME}) ✨ **")
         return
     
     audio = (
@@ -192,21 +192,21 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="🥀 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 🕊️",
-                            url=f"https://t.me/{OWNER_USERNAME}")
+                            url=f"https://t.me/{OFFICIAL_MENTALMOD}")
                ],
                [
                     InlineKeyboardButton(
                             text="📡 𝐔𝐩𝐝𝐚𝐭𝐞𝐬",
-                            url=f"{UPDATES_CHANNEL}"),
+                            url=f"{https://t.me/MENTAL_MOD}"),
                             
                     InlineKeyboardButton(
                             text="𝐒𝐮𝐩𝐩𝐨𝐫𝐭 💬",
-                            url=f"{SUPPORT_GROUP}")
+                            url=f"{https://t.me/A_4_AMAN_Officcial}")
                ],
                [
                         InlineKeyboardButton(
-                            text="😎 𝐅𝐞𝐞𝐋𝐢𝐧𝐠'𝐒 🌺",
-                            url=f"{PROFILE_CHANNEL}")
+                            text="😎 𝐇𝐀𝐂𝐊'𝐒 🌺",
+                            url=f"{https://t.me/jzjshhsjsjdjnd}")
                    
                 ]
             ]
@@ -245,21 +245,21 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="🥀 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 🕊️",
-                            url=f"https://t.me/{OWNER_USERNAME}")
+                            url=f"https://t.me/{OFFICIAL_MENTALMOD}")
                ],
                [
                     InlineKeyboardButton(
                             text="📡 𝐔𝐩𝐝𝐚𝐭𝐞𝐬",
-                            url=f"{UPDATES_CHANNEL}"),
+                            url=f"{https://t.me/MENTAL_MOD}"),
                             
                     InlineKeyboardButton(
                             text="𝐒𝐮𝐩𝐩𝐨𝐫𝐭 💬",
-                            url=f"{SUPPORT_GROUP}")
+                            url=f"{https://t.me/A_4_AMAN_Officcial}")
                ],
                [
                         InlineKeyboardButton(
-                            text="😎 𝐅𝐞𝐞𝐋𝐢𝐧𝐠'𝐒 🌺",
-                            url=f"{PROFILE_CHANNEL}")
+                            text="😎 𝐇𝐀𝐂𝐊'𝐒 🌺",
+                            url=f"{https://t.me/MENTAL_MOD}")
                    
                 ]
             ]
@@ -275,21 +275,21 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="🥀 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 🕊️",
-                            url=f"https://t.me/{OWNER_USERNAME}")
+                            url=f"https://t.me/{OFFICIAL_MENTALMOD}")
                ],
                [
                     InlineKeyboardButton(
                             text="📡 𝐔𝐩𝐝𝐚𝐭𝐞𝐬",
-                            url=f"{UPDATES_CHANNEL}"),
+                            url=f"{https://t.me/MENTAL_MOD}"),
                             
                     InlineKeyboardButton(
                             text="𝐒𝐮𝐩𝐩𝐨𝐫𝐭 💬",
-                            url=f"{SUPPORT_GROUP}")
+                            url=f"{https://t.me/A_4_AMAN_OFFICCIAL}")
                ],
                [
                         InlineKeyboardButton(
-                            text="😎 𝐅𝐞𝐞𝐋𝐢𝐧𝐠'𝐒 🌺",
-                            url=f"{PROFILE_CHANNEL}")
+                            text="😎 𝐇𝐀𝐂𝐊'𝐒 🌺",
+                            url=f"{https://t.me/jzjshhsjsjdjnd}")
                    
                 ]
             ]
@@ -343,21 +343,21 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="🥀 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 🕊️",
-                            url=f"https://t.me/{OWNER_USERNAME}")
+                            url=f"https://t.me/{OFFICIAL_MENTALMOD}")
                ],
                [
                     InlineKeyboardButton(
                             text="📡 𝐔𝐩𝐝𝐚𝐭𝐞𝐬",
-                            url=f"{UPDATES_CHANNEL}"),
+                            url=f"{https://t.me/MENTAL_MOD}"),
                             
                     InlineKeyboardButton(
                             text="𝐒𝐮𝐩𝐩𝐨𝐫𝐭 💬",
-                            url=f"{SUPPORT_GROUP}")
+                            url=f"{https://t.me/A_4_AMAN_OFFICCIAL}")
                ],
                [
                         InlineKeyboardButton(
-                            text="😎 𝐅𝐞𝐞𝐋𝐢𝐧𝐠'𝐒 🌺",
-                            url=f"{PROFILE_CHANNEL}")
+                            text="😎 𝐇𝐀𝐂𝐊'𝐒 🌺",
+                            url=f"{https://t.me/jzjshhsjsjdjnd}")
                    
                 ]
             ]
