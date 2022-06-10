@@ -192,7 +192,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="🥀 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 🕊️",
-                            url=f"https://t.me/{OFFICIAL_MENTALMOD}")
+                            url=f"{https://t.me/OFFICIAL_MENTALMOD}")
                ],
                [
                     InlineKeyboardButton(
@@ -206,7 +206,7 @@ async def play(_, message: Message):
                [
                         InlineKeyboardButton(
                             text="😎 𝐇𝐀𝐂𝐊'𝐒 🌺",
-                            url=f"{https://t.me/jzjshhsjsjdjnd}")
+                            url=f"{https://t.me/+vAXQ9JEu7A9jMWNl}")
                    
                 ]
             ]
@@ -245,7 +245,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="🥀 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 🕊️",
-                            url=f"https://t.me/{OFFICIAL_MENTALMOD}")
+                            url=f"{https://t.me/OFFICIAL_MENTALMOD}")
                ],
                [
                     InlineKeyboardButton(
@@ -259,7 +259,7 @@ async def play(_, message: Message):
                [
                         InlineKeyboardButton(
                             text="😎 𝐇𝐀𝐂𝐊'𝐒 🌺",
-                            url=f"{https://t.me/MENTAL_MOD}")
+                            url=f"{https://t.me/+vAXQ9JEu7A9jMWNl}")
                    
                 ]
             ]
@@ -275,7 +275,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="🥀 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 🕊️",
-                            url=f"https://t.me/OFFICIAL_MENTALMOD}")
+                            url=f"{https://t.me/OFFICIAL_MENTALMOD}")
                ],
                [
                     InlineKeyboardButton(
@@ -289,7 +289,7 @@ async def play(_, message: Message):
                [
                         InlineKeyboardButton(
                             text="😎 𝐇𝐀𝐂𝐊'𝐒 🌺",
-                            url=f"{https://t.me/jzjshhsjsjdjnd}")
+                            url=f"{https://t.me/+vAXQ9JEu7A9jMWNl}")
                    
                 ]
             ]
@@ -343,7 +343,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="🥀 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 🕊️",
-                            url=f"https://t.me/OFFICIAL_MENTALMOD}")
+                            url=f"{https://t.me/OFFICIAL_MENTALMOD}")
                ],
                [
                     InlineKeyboardButton(
@@ -357,7 +357,7 @@ async def play(_, message: Message):
                [
                         InlineKeyboardButton(
                             text="😎 𝐇𝐀𝐂𝐊'𝐒 🌺",
-                            url=f"{https://t.me/jzjshhsjsjdjnd}")
+                            url=f"{https://t.me/+vAXQ9JEu7A9jMWNl}")
                    
                 ]
             ]
