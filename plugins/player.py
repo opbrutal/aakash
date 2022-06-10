@@ -107,7 +107,7 @@ async def generate_cover(requested_by, title, views, duration, thumbnail):
     draw.text((190, 630), f"Views: {views}", (255, 255, 255), font=font)
     draw.text(
         (190, 670),
-        f"Powered By: MENTAL (OFFICIAL_MENTALMOD)",
+        f"Powered By: AKASH(AKASH_ACCOUNTS_RESELLER)",
         (255, 255, 255),
         font=font,
     )
@@ -135,7 +135,7 @@ async def play(_, message: Message):
     try:
         user = await USER.get_me()
     except:
-        user.first_name = "MENTALxQUEEN"
+        user.first_name = "𝐌𝐑乛 𝐑𝐔𝐃𝐑𝐀 𝐱 𝐌𝐔𝐒𝐈𝐂"
     usar = user
     wew = usar.id
     try:
@@ -159,12 +159,12 @@ async def play(_, message: Message):
                     pass
                 except Exception:
                     await lel.edit(
-                        f"**🥀 𝐏𝐥𝐞𝐚𝐬𝐞 𝐌𝐚𝐧𝐮𝐚𝐥𝐥𝐲 🌺 𝐀𝐝𝐝 [𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭](t.me/{MENTALxQUEEN_MUSIC}) 🎸 𝐢𝐧 𝐓𝐡𝐢𝐬 𝐆𝐫𝐨𝐮𝐩 ♥️ 𝐎𝐫 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐓𝐨 [𝐁𝐨𝐭 𝐎𝐰𝐧𝐞𝐫 ](https://t.me/{OWNER_USERNAME}) ✨ **")
+                        f"**🥀 𝐏𝐥𝐞𝐚𝐬𝐞 𝐌𝐚𝐧𝐮𝐚𝐥𝐥𝐲 🌺 𝐀𝐝𝐝 [𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭](t.me/{𝐌𝐫乛 𝐑𝐔𝐃𝐑𝐀 𝐱 𝐌𝐔𝐒𝐈𝐂}) 🎸 𝐢𝐧 𝐓𝐡𝐢𝐬 𝐆𝐫𝐨𝐮𝐩 ♥️ 𝐎𝐫 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐓𝐨 [𝐁𝐨𝐭 𝐎𝐰𝐧𝐞𝐫 ](https://t.me/{AKASH_ACCOUNTS_RESELLER}) ✨ **")
     try:
         await USER.get_chat(chid)
     except:
         await lel.edit(
-            f"**🥀 𝐏𝐥𝐞𝐚𝐬𝐞 𝐌𝐚𝐧𝐮𝐚𝐥𝐥𝐲 🌺 𝐀𝐝𝐝 [𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭](t.me/{MENTALxQUEEN_MUSIC}) 🎸 𝐢𝐧 𝐓𝐡𝐢𝐬 𝐆𝐫𝐨𝐮𝐩 ♥️ 𝐎𝐫 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐓𝐨 [𝐁𝐨𝐭 𝐎𝐰𝐧𝐞𝐫 ](https://t.me/{OWNER_USERNAME}) ✨ **")
+            f"**🥀 𝐏𝐥𝐞𝐚𝐬𝐞 𝐌𝐚𝐧𝐮𝐚𝐥𝐥𝐲 🌺 𝐀𝐝𝐝 [𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭](t.me/{𝐌𝐫乛 𝐑𝐔𝐃𝐑𝐀 𝐱 𝐌𝐔𝐒𝐈𝐂}) 🎸 𝐢𝐧 𝐓𝐡𝐢𝐬 𝐆𝐫𝐨𝐮𝐩 ♥️ 𝐎𝐫 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐓𝐨 [𝐁𝐨𝐭 𝐎𝐰𝐧𝐞𝐫 ](https://t.me/{AKASH_ACCOUNTS_RESELLER}) ✨ **")
         return
     
     audio = (
@@ -192,21 +192,19 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="🥀 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 🕊️",
-                            url=f"{https://t.me/OFFICIAL_MENTALMOD}")
+                            url=f"{https://t.me/AKASH_ACCOUNTS_RESELLER}")
                ],
                [
                     InlineKeyboardButton(
                             text="📡 𝐔𝐩𝐝𝐚𝐭𝐞𝐬",
-                            url=f"{https://t.me/MENTAL_MOD}"),
+                            url=f"{https://t.me/+vFOVpl3sbpFjNGE9}"),
                             
                     InlineKeyboardButton(
                             text="𝐒𝐮𝐩𝐩𝐨𝐫𝐭 💬",
                             url=f"{https://t.me/A_4_AMAN_Officcial}")
                ],
                [
-                        InlineKeyboardButton(
-                            text="😎 𝐇𝐀𝐂𝐊'𝐒 🌺",
-                            url=f"{https://t.me/+vAXQ9JEu7A9jMWNl}")
+                        
                    
                 ]
             ]
@@ -245,22 +243,20 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="🥀 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 🕊️",
-                            url=f"{https://t.me/OFFICIAL_MENTALMOD}")
+                            url=f"{https://t.me/AKASH_ACCOUNTS_RESELLER}")
                ],
                [
                     InlineKeyboardButton(
                             text="📡 𝐔𝐩𝐝𝐚𝐭𝐞𝐬",
-                            url=f"{https://t.me/MENTAL_MOD}"),
+                            url=f"{https://t.me/+vFOVpl3sbpFjNGE9}"),
                             
                     InlineKeyboardButton(
                             text="𝐒𝐮𝐩𝐩𝐨𝐫𝐭 💬",
                             url=f"{https://t.me/A_4_AMAN_Officcial}")
                ],
                [
-                        InlineKeyboardButton(
-                            text="😎 𝐇𝐀𝐂𝐊'𝐒 🌺",
-                            url=f"{https://t.me/+vAXQ9JEu7A9jMWNl}")
-                   
+                        
+                                   
                 ]
             ]
         )
@@ -275,21 +271,19 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="🥀 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 🕊️",
-                            url=f"{https://t.me/OFFICIAL_MENTALMOD}")
+                            url=f"{https://t.me/AKASH_ACCOUNTS_RESELLER}")
                ],
                [
                     InlineKeyboardButton(
                             text="📡 𝐔𝐩𝐝𝐚𝐭𝐞𝐬",
-                            url=f"{https://t.me/MENTAL_MOD}"),
+                            url=f"{https://t.me/+vFOVpl3sbpFjNGE9}"),
                             
                     InlineKeyboardButton(
                             text="𝐒𝐮𝐩𝐩𝐨𝐫𝐭 💬",
                             url=f"{https://t.me/A_4_AMAN_OFFICCIAL}")
                ],
                [
-                        InlineKeyboardButton(
-                            text="😎 𝐇𝐀𝐂𝐊'𝐒 🌺",
-                            url=f"{https://t.me/+vAXQ9JEu7A9jMWNl}")
+                     
                    
                 ]
             ]
@@ -343,21 +337,19 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="🥀 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 🕊️",
-                            url=f"{https://t.me/OFFICIAL_MENTALMOD}")
+                            url=f"{https://t.me/AKASH_ACCOUNTS_RESELLER}")
                ],
                [
                     InlineKeyboardButton(
                             text="📡 𝐔𝐩𝐝𝐚𝐭𝐞𝐬",
-                            url=f"{https://t.me/MENTAL_MOD}"),
+                            url=f"{https://t.me/+vFOVpl3sbpFjNGE9}"),
                             
                     InlineKeyboardButton(
                             text="𝐒𝐮𝐩𝐩𝐨𝐫𝐭 💬",
                             url=f"{https://t.me/A_4_AMAN_OFFICCIAL}")
                ],
                [
-                        InlineKeyboardButton(
-                            text="😎 𝐇𝐀𝐂𝐊'𝐒 🌺",
-                            url=f"{https://t.me/+vAXQ9JEu7A9jMWNl}")
+                        
                    
                 ]
             ]
