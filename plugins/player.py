@@ -275,7 +275,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="🥀 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 🕊️",
-                            url=f"https://t.me/{OFFICIAL_MENTALMOD}")
+                            url=f"https://t.me/OFFICIAL_MENTALMOD}")
                ],
                [
                     InlineKeyboardButton(
@@ -343,7 +343,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="🥀 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 🕊️",
-                            url=f"https://t.me/{OFFICIAL_MENTALMOD}")
+                            url=f"https://t.me/OFFICIAL_MENTALMOD}")
                ],
                [
                     InlineKeyboardButton(
